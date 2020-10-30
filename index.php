@@ -7,11 +7,15 @@
         <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap" rel="stylesheet">
     </head>
+    
     <body>
+        
         <header>
             <h1> Yoela Zauderer </h1>
         </header>
+        
         <hr/>
+        
         <nav>
             <a href="index.html"> <strong>HOME</strong> </a>
             <a href="about.html"> ABOUT </a>
@@ -44,6 +48,7 @@
         
         <footer>
             <hr>
+            
             <div id="footersection">
             
             <figure>
