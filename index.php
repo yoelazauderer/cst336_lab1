@@ -5,7 +5,7 @@
         <title> Yoela Zauderer: Personal Website </title>
         <link href="styles.css" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&display=swap" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap" rel="stylesheet">
     </head>
     <body>
         <header>
